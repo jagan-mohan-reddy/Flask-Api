@@ -1,2 +1,2 @@
 # Flask-Api
-Basic api that would give outout as hello 'name' and square of the number 'input-X'
+Basic api that would give outout as hello+name(name is input) and square of the number(num is input)
